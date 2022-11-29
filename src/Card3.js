@@ -63,9 +63,9 @@ export default function Card3() {
             </li>
           </ul>
           <div className="d-grid">
-            <a href="#" className="btn btn-primary text-uppercase">
+            <span className="btn btn-primary text-uppercase">
               Button
-            </a>
+            </span>
           </div>
         </div>
       </div>
